@@ -23,8 +23,8 @@ logger = logging.getLogger(__name__)
 # تنظیمات پیش‌فرض
 CONFIG_FILE = "bot_config.json"
 DEFAULT_CONFIG = {
-    "host_usernames": ["0.167"],
-    "admin_usernames": ["0.167"],
+    "host_usernames": ["@0.167"],
+    "admin_usernames": ["@0.167"],
     "vip_usernames": [],
     "banned_users": [],
     "teleport_locations": {
